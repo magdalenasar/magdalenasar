@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Magdalena</h1>
+<h1 align="center">Hi 👋, I'm Maggie</h1>
 <h3 align="center">A passionate full stack developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdalenasar&label=Profile%20views&color=0e75b6&style=flat" alt="magdalenasar" /> </p>
