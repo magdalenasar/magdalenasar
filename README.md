@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://magdalena-sarandeva-portfolio.netlify.app](https://magdalena-sarandeva-portfolio.netlify.app)
 
-- 📫 How to reach me **sarandev2@gmail.com**
+- 📫 How to reach me **sarandeva2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
